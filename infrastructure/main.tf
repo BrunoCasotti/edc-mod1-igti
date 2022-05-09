@@ -21,3 +21,5 @@ resource "aws_s3_bucket" "datalake" {
 provider "aws" {
   region = "us-east-2"
 }
+
+#comentario para alterar
